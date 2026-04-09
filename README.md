@@ -97,7 +97,7 @@ MIT
 
 ## Author
 
-[Your Name]
+Thai Leetrakul
 
 ## References
 
