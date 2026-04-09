@@ -18,7 +18,7 @@ This project quantifies the pass-through of global oil price movements to Thaila
 | Q6 | +0.038 | ✓ |
 | Q7 | −0.005 | — |
 | Q8 | −0.019 | ✓ |
-
+![Impulse Response Function](results/irf_plot.png)
 **Interpretation:** A 10% oil price increase raises Thai inflation by approximately 0.7–0.8 percentage points in the first 3 quarters. The effect then fades and slightly reverses by Q8, consistent with partial and transitory pass-through found in the literature.
 
 ## Methodology
